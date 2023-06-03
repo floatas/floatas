@@ -10,7 +10,7 @@ You can find my blog posts on [https://floatincode.net](https://floatincode.net)
 
 Here are some of the projects that I'm proud of:
 
-### Pomodoro application
+### Applications
 
 [Yapa2.app](https://yapa2.app) is a minimalist pomodoro timer that helps you stay focused and productive. You can customize your work and break durations, track your progress.
 
